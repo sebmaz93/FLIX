@@ -1,11 +1,11 @@
-#FLIX (MEDIA APP)
+# FLIX (MEDIA APP)
 
 Custom Made:
 
-Slider
+• Slider
 
-Stories / Days
+• Stories / Days
 
-Video Player
+• Video Player
 
-and More...
+• and More...
